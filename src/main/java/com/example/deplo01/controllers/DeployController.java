@@ -8,6 +8,6 @@ public class DeployController {
 
     @GetMapping("/devName")
     public String getDevName() {
-        return "Claudio";
+        return "devName";
     }
 }
